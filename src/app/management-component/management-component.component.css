@@ -1,0 +1,10 @@
+nav{
+    margin: 1rem,0.5rem;
+    padding: 1rem;
+    border: 1px solid lightgreen;
+}
+
+.row{
+    padding: 2rem;
+    height: 100vh;
+}
